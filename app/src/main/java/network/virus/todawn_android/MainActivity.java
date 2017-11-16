@@ -12,6 +12,6 @@ public class MainActivity extends Activity {
         startActivity(new Intent(this, SplashActivity.class));
 
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.main);
     }
 }
