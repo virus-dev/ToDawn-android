@@ -26,6 +26,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/splash_text"
+        android:gravity="center_horizontal"
         android:layout_marginTop="40dp"
         android:layout_below="@+id/splash_dawn"
         android:layout_centerHorizontal="true" />
